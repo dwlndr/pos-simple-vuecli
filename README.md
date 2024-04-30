@@ -1,4 +1,4 @@
-# tugas-akhir
+# POS Sederhana Menggunakan Vue CLI 
 
 ## Project setup
 ```
